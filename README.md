@@ -8,7 +8,7 @@ UPS Pays you $17 an hour.
 FedEx Pays you $27 an hour.  
 You only work between 9am and 5pm.  
 
-Your solution should allow picking a company by selecting one of 3 checkboxes.  
+Your solution should allow picking a company by selecting one of 3 radio buttons.  
 Your solution should allow picking a start time with a dropdown box.  
 Your solution should allow picking an end time with a dropdown box.  
 
