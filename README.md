@@ -1,7 +1,7 @@
 ## Scenerio
 
-You are a delivery driver and you would like to calculate how much money you will earn for working deliveries for a day.  
-Your deliver for Amazon, UPS, and FedEx.  
+You are a delivery driver and you would like to calculate how much money you will earn for working deliveries in a day.  
+You deliver for Amazon, UPS, and FedEx.  
 You only deliver for one company per day.  
 Amazon Pays you $21 an hour.  
 UPS Pays you $17 an hour.  
