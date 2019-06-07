@@ -14,10 +14,14 @@ Your solution should allow picking an end time with a dropdown box.
 
 ## Visual example of a possible Final Solution
 
-
+example 1
 ![example 1](https://i.ibb.co/gJj6Bwq/list1.png)
+
+example 2
 ![example 2](https://i.ibb.co/nj0BDYR/Capture.png)
-![example 3](https://i.ibb.co/nj0BDYR/Capture.png)
+
+example 3
+![example 3](https://i.ibb.co/qFMvSbT/final-pay.png)
 
 
 ## Available Scripts
