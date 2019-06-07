@@ -12,6 +12,8 @@ Your solution should allow picking a company by selecting one of 3 checkboxes.
 Your solution should allow picking a start time with a dropdown box.  
 Your solution should allow picking an end time with a dropdown box.  
 
+You are free to use any npm packages in your solution.  
+
 ## Visual example of a possible Final Solution
 
 example 1  
